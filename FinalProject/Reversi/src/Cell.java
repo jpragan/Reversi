@@ -38,7 +38,7 @@ public enum Cell {
 			switch(this){
 			case BLACK: return "B";
 			case WHITE: return "W";
-			case EMPTY: return "E";
+			case EMPTY: return " ";
 			default: throw new IllegalArgumentException(); // had to have an exception to get this to compile. I will catch it later in the code.
 			}		
 		}

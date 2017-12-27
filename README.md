@@ -1,6 +1,9 @@
 # Reversi
 Reversi Game /  CPSC 224 
 
+12/27/2017 - Added all the final code. Also moved main to it's own class. This prject was completed way earlier but I realized that the full code was never put on github as we didn't really use github as source control.
+-Evan
+
 04/15 - I loaded a rough draft of the board and the cells last night. I just need to add the methods to check what color the cells are. None of the code has notes so if you have any questions or you want me to change something, just let me know.
 -John
  
